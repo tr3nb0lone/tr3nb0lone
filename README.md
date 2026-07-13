@@ -6,7 +6,7 @@ I am interested in everything in relation to Offensive Cybersecurity, and I inte
 
 ----
 
-#### These are the Languages and Tech I heavily depend on.
+##### These are the Languages and Tech I heavily depend upon:
 ![Nix,Bash,Go,Lua,Rust,Python,C](https://skillicons.dev/icons?i=nix,bash,go,lua,rust,c)
 
 ![Cloudflare,Linux,Git,Windows,Docker,aws](https://skillicons.dev/icons?i=cf,linux,git,windows,docker,aws)
