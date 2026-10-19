@@ -13,7 +13,7 @@ I am interested in everything in relation to Offensive Cybersecurity, and I inte
 
 
 #### Contact:
-   - Email:   `him@tr3nb0lone.xyz`
+   - Email:   `tr3nb@letmehack.it`
    - Twitter: `tr3nb0lone`
    - Discord: `@tr3nb0lone4`
 
